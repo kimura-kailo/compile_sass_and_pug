@@ -1,0 +1,11 @@
+section {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 20px;
+  border-radius: 10px;
+  background: #f7f7f7;
+}
+
+section h1 {
+  color: #555;
+}
